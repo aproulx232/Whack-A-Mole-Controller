@@ -1,0 +1,10 @@
+18-E
+23-F
+
+Wak a Mole
+from left to right
+L1-22 B1-25 
+L2-6  B2-12
+L3-5  B3-24
+L4-27 B4-23
+L5-17 B5-18
